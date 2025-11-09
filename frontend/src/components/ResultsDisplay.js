@@ -1,20 +1,9 @@
 import React from 'react';
 import './ResultsDisplay.css';
+import { formatCurrency, formatPercent } from '../utils/formatters';
 
 function ResultsDisplay({ results }) {
   const { metrics, data_period, signals, market } = results;
-
-  const formatCurrency = (value) => {
-    return new Intl.NumberFormat('ko-KR', {
-      style: 'currency',
-      currency: 'KRW',
-      maximumFractionDigits: 0
-    }).format(value);
-  };
-
-  const formatPercent = (value) => {
-    return `${value >= 0 ? '+' : ''}${value.toFixed(2)}%`;
-  };
 
   return (
     <div className="results-display-container">

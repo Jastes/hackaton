@@ -1,0 +1,3371 @@
+
+> frontend@0.1.0 start
+> react-scripts start
+
+(node:61968) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:61968) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view frontend in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://172.30.1.48:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+(node:61968) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/pages/HomePage.js
+Syntax error: Unexpected token, expected ")" (51:61) (51:61)
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+ERROR in ./src/pages/HomePage.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: /Users/jastes/Desktop/hackaton/frontend/src/pages/HomePage.js: Unexpected token, expected ")" (51:61)
+
+  49 |   const getErrorMessage = (err) => {
+  50 |     if (err.code === 'ECONNABORTED') return '요청 시간 초과';
+> 51 |     if (err.code === 'ECONNREFUSED || err.message?.includes('Network Error')) return '서버 연결 실패';
+     |                                                              ^
+  52 |     return err.response?.data?.error || err.message || '오류 발생';
+  53 |   };
+  54 |
+    at constructor (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:367:19)
+    at FlowParserMixin.raise (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:6624:19)
+    at FlowParserMixin.unexpected (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:6644:16)
+    at FlowParserMixin.expect (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:6924:12)
+    at FlowParserMixin.parseHeaderExpression (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13109:10)
+    at FlowParserMixin.parseIfStatement (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13205:22)
+    at FlowParserMixin.parseStatementContent (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12872:21)
+    at FlowParserMixin.parseStatementLike (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12843:17)
+    at FlowParserMixin.parseStatementLike (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:2945:24)
+    at FlowParserMixin.parseStatementListItem (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12823:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13392:61)
+    at FlowParserMixin.parseBlockBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13385:10)
+    at FlowParserMixin.parseBlock (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13373:10)
+    at FlowParserMixin.parseFunctionBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12174:24)
+    at /Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:2919:63
+    at FlowParserMixin.forwardNoArrowParamsConversionAt (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3095:16)
+    at FlowParserMixin.parseFunctionBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:2919:12)
+    at FlowParserMixin.parseArrowExpression (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12149:10)
+    at FlowParserMixin.parseParenAndDistinguishExpression (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11759:12)
+    at FlowParserMixin.parseParenAndDistinguishExpression (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3620:18)
+    at FlowParserMixin.parseExprAtom (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11395:23)
+    at FlowParserMixin.parseExprAtom (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:4793:20)
+    at FlowParserMixin.parseExprSubscripts (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11145:23)
+    at FlowParserMixin.parseUpdate (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11130:21)
+    at FlowParserMixin.parseMaybeUnary (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11110:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10963:61)
+    at FlowParserMixin.parseExprOps (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10968:23)
+    at FlowParserMixin.parseMaybeConditional (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10945:23)
+    at FlowParserMixin.parseMaybeAssign (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10895:21)
+    at FlowParserMixin.parseMaybeAssign (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3578:18)
+    at /Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10864:39
+    at FlowParserMixin.allowInAnd (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12495:16)
+    at FlowParserMixin.parseMaybeAssignAllowIn (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10864:17)
+    at FlowParserMixin.parseVar (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13460:91)
+    at FlowParserMixin.parseVarStatement (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13306:10)
+    at FlowParserMixin.parseStatementContent (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12927:23)
+    at FlowParserMixin.parseStatementLike (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12843:17)
+    at FlowParserMixin.parseStatementLike (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:2945:24)
+    at FlowParserMixin.parseStatementListItem (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12823:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13392:61)
+    at FlowParserMixin.parseBlockBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13385:10)
+    at FlowParserMixin.parseBlock (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13373:10)
+    at FlowParserMixin.parseFunctionBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12174:24)
+    at FlowParserMixin.parseFunctionBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:2922:11)
+    at FlowParserMixin.parseFunctionBodyAndFinish (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12160:10)
+    at FlowParserMixin.parseFunctionBodyAndFinish (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:2930:18)
+    at /Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13521:12
+    at FlowParserMixin.withSmartMixTopicForbiddingContext (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12477:14)
+    at FlowParserMixin.parseFunction (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13520:10)
+    at FlowParserMixin.parseFunctionStatement (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13201:17)
+
+ERROR in [eslint] 
+src/pages/HomePage.js
+  Line 51:61:  Parsing error: Unexpected token, expected ")" (51:61)
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/pages/HomePage.js
+Syntax error: Unexpected token, expected ")" (51:61) (51:61)
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+ERROR in ./src/pages/HomePage.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: /Users/jastes/Desktop/hackaton/frontend/src/pages/HomePage.js: Unexpected token, expected ")" (51:61)
+
+  49 |   const getErrorMessage = (err) => {
+  50 |     if (err.code === 'ECONNABORTED') return '요청 시간 초과';
+> 51 |     if (err.code === 'ECONNREFUSED || err.message?.includes('Network Error')) return '서버 연결 실패';
+     |                                                              ^
+  52 |     return err.response?.data?.error || err.message || '오류 발생';
+  53 |   };
+  54 |
+    at constructor (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:367:19)
+    at FlowParserMixin.raise (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:6624:19)
+    at FlowParserMixin.unexpected (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:6644:16)
+    at FlowParserMixin.expect (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:6924:12)
+    at FlowParserMixin.parseHeaderExpression (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13109:10)
+    at FlowParserMixin.parseIfStatement (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13205:22)
+    at FlowParserMixin.parseStatementContent (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12872:21)
+    at FlowParserMixin.parseStatementLike (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12843:17)
+    at FlowParserMixin.parseStatementLike (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:2945:24)
+    at FlowParserMixin.parseStatementListItem (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12823:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13392:61)
+    at FlowParserMixin.parseBlockBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13385:10)
+    at FlowParserMixin.parseBlock (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13373:10)
+    at FlowParserMixin.parseFunctionBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12174:24)
+    at /Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:2919:63
+    at FlowParserMixin.forwardNoArrowParamsConversionAt (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3095:16)
+    at FlowParserMixin.parseFunctionBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:2919:12)
+    at FlowParserMixin.parseArrowExpression (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12149:10)
+    at FlowParserMixin.parseParenAndDistinguishExpression (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11759:12)
+    at FlowParserMixin.parseParenAndDistinguishExpression (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3620:18)
+    at FlowParserMixin.parseExprAtom (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11395:23)
+    at FlowParserMixin.parseExprAtom (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:4793:20)
+    at FlowParserMixin.parseExprSubscripts (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11145:23)
+    at FlowParserMixin.parseUpdate (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11130:21)
+    at FlowParserMixin.parseMaybeUnary (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11110:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10963:61)
+    at FlowParserMixin.parseExprOps (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10968:23)
+    at FlowParserMixin.parseMaybeConditional (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10945:23)
+    at FlowParserMixin.parseMaybeAssign (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10895:21)
+    at FlowParserMixin.parseMaybeAssign (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3578:18)
+    at /Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10864:39
+    at FlowParserMixin.allowInAnd (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12495:16)
+    at FlowParserMixin.parseMaybeAssignAllowIn (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10864:17)
+    at FlowParserMixin.parseVar (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13460:91)
+    at FlowParserMixin.parseVarStatement (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13306:10)
+    at FlowParserMixin.parseStatementContent (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12927:23)
+    at FlowParserMixin.parseStatementLike (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12843:17)
+    at FlowParserMixin.parseStatementLike (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:2945:24)
+    at FlowParserMixin.parseStatementListItem (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12823:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13392:61)
+    at FlowParserMixin.parseBlockBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13385:10)
+    at FlowParserMixin.parseBlock (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13373:10)
+    at FlowParserMixin.parseFunctionBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12174:24)
+    at FlowParserMixin.parseFunctionBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:2922:11)
+    at FlowParserMixin.parseFunctionBodyAndFinish (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12160:10)
+    at FlowParserMixin.parseFunctionBodyAndFinish (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:2930:18)
+    at /Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13521:12
+    at FlowParserMixin.withSmartMixTopicForbiddingContext (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12477:14)
+    at FlowParserMixin.parseFunction (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13520:10)
+    at FlowParserMixin.parseFunctionStatement (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13201:17)
+
+ERROR in [eslint] 
+src/pages/HomePage.js
+  Line 51:61:  Parsing error: Unexpected token, expected ")" (51:61)
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/pages/HomePage.js
+Syntax error: Unexpected token, expected ")" (51:61) (51:61)
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+ERROR in ./src/pages/HomePage.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: /Users/jastes/Desktop/hackaton/frontend/src/pages/HomePage.js: Unexpected token, expected ")" (51:61)
+
+  49 |   const getErrorMessage = (err) => {
+  50 |     if (err.code === 'ECONNABORTED') return '요청 시간 초과';
+> 51 |     if (err.code === 'ECONNREFUSED || err.message?.includes('Network Error')) return '서버 연결 실패';
+     |                                                              ^
+  52 |     return err.response?.data?.error || err.message || '오류 발생';
+  53 |   };
+  54 |
+    at constructor (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:367:19)
+    at FlowParserMixin.raise (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:6624:19)
+    at FlowParserMixin.unexpected (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:6644:16)
+    at FlowParserMixin.expect (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:6924:12)
+    at FlowParserMixin.parseHeaderExpression (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13109:10)
+    at FlowParserMixin.parseIfStatement (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13205:22)
+    at FlowParserMixin.parseStatementContent (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12872:21)
+    at FlowParserMixin.parseStatementLike (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12843:17)
+    at FlowParserMixin.parseStatementLike (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:2945:24)
+    at FlowParserMixin.parseStatementListItem (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12823:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13392:61)
+    at FlowParserMixin.parseBlockBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13385:10)
+    at FlowParserMixin.parseBlock (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13373:10)
+    at FlowParserMixin.parseFunctionBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12174:24)
+    at /Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:2919:63
+    at FlowParserMixin.forwardNoArrowParamsConversionAt (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3095:16)
+    at FlowParserMixin.parseFunctionBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:2919:12)
+    at FlowParserMixin.parseArrowExpression (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12149:10)
+    at FlowParserMixin.parseParenAndDistinguishExpression (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11759:12)
+    at FlowParserMixin.parseParenAndDistinguishExpression (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3620:18)
+    at FlowParserMixin.parseExprAtom (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11395:23)
+    at FlowParserMixin.parseExprAtom (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:4793:20)
+    at FlowParserMixin.parseExprSubscripts (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11145:23)
+    at FlowParserMixin.parseUpdate (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11130:21)
+    at FlowParserMixin.parseMaybeUnary (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11110:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10963:61)
+    at FlowParserMixin.parseExprOps (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10968:23)
+    at FlowParserMixin.parseMaybeConditional (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10945:23)
+    at FlowParserMixin.parseMaybeAssign (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10895:21)
+    at FlowParserMixin.parseMaybeAssign (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3578:18)
+    at /Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10864:39
+    at FlowParserMixin.allowInAnd (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12495:16)
+    at FlowParserMixin.parseMaybeAssignAllowIn (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10864:17)
+    at FlowParserMixin.parseVar (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13460:91)
+    at FlowParserMixin.parseVarStatement (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13306:10)
+    at FlowParserMixin.parseStatementContent (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12927:23)
+    at FlowParserMixin.parseStatementLike (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12843:17)
+    at FlowParserMixin.parseStatementLike (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:2945:24)
+    at FlowParserMixin.parseStatementListItem (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12823:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13392:61)
+    at FlowParserMixin.parseBlockBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13385:10)
+    at FlowParserMixin.parseBlock (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13373:10)
+    at FlowParserMixin.parseFunctionBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12174:24)
+    at FlowParserMixin.parseFunctionBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:2922:11)
+    at FlowParserMixin.parseFunctionBodyAndFinish (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12160:10)
+    at FlowParserMixin.parseFunctionBodyAndFinish (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:2930:18)
+    at /Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13521:12
+    at FlowParserMixin.withSmartMixTopicForbiddingContext (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12477:14)
+    at FlowParserMixin.parseFunction (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13520:10)
+    at FlowParserMixin.parseFunctionStatement (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13201:17)
+
+ERROR in [eslint] 
+src/pages/HomePage.js
+  Line 51:61:  Parsing error: Unexpected token, expected ")" (51:61)
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used       no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used         no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used    no-unused-vars
+  Line 17:3:   'Bar' is defined but never used             no-unused-vars
+  Line 20:10:  'formatCurrency' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used       no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used         no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used    no-unused-vars
+  Line 17:3:   'Bar' is defined but never used             no-unused-vars
+  Line 20:10:  'formatCurrency' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/pages/ResultsPage.js
+  Line 38:12:  'ResultsDisplay' is not defined  react/jsx-no-undef
+  Line 39:12:  'ChartDisplay' is not defined    react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+src/pages/ResultsPage.js
+  Line 4:8:  'ResultsSummary' is defined but never used  no-unused-vars
+  Line 5:8:  'ChartPreview' is defined but never used    no-unused-vars
+
+ERROR in [eslint] 
+src/pages/ResultsPage.js
+  Line 38:12:  'ResultsDisplay' is not defined  react/jsx-no-undef
+  Line 39:12:  'ChartDisplay' is not defined    react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 1:23:  'Suspense' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 1:23:  'Suspense' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/components/ResultsSummary.js
+Syntax error: Unexpected token, expected "," (67:0) (67:undefined)
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+ERROR in ./src/components/ResultsSummary.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: /Users/jastes/Desktop/hackaton/frontend/src/components/ResultsSummary.js: Unexpected token, expected "," (67:0)
+
+  65 | }
+  66 |
+> 67 | export default ResultsSummary;
+     | ^
+  68 |
+  69 |
+    at constructor (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:367:19)
+    at FlowParserMixin.raise (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:6624:19)
+    at FlowParserMixin.unexpected (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:6644:16)
+    at FlowParserMixin.expect (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:6924:12)
+    at FlowParserMixin.parseCallExpressionArguments (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11307:14)
+    at FlowParserMixin.parseCoverCallAndAsyncArrowHead (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11250:29)
+    at FlowParserMixin.parseSubscript (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11184:19)
+    at FlowParserMixin.parseSubscript (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3679:18)
+    at FlowParserMixin.parseSubscripts (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11158:19)
+    at FlowParserMixin.parseSubscripts (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3645:18)
+    at FlowParserMixin.parseExprSubscripts (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11149:17)
+    at FlowParserMixin.parseUpdate (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11130:21)
+    at FlowParserMixin.parseMaybeUnary (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11110:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10963:61)
+    at FlowParserMixin.parseExprOps (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10968:23)
+    at FlowParserMixin.parseMaybeConditional (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10945:23)
+    at FlowParserMixin.parseMaybeAssign (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10895:21)
+    at FlowParserMixin.parseMaybeAssign (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3578:18)
+    at /Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10864:39
+    at FlowParserMixin.allowInAnd (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12495:16)
+    at FlowParserMixin.parseMaybeAssignAllowIn (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10864:17)
+    at FlowParserMixin.parseVar (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13460:91)
+    at FlowParserMixin.parseVarStatement (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13306:10)
+    at FlowParserMixin.parseStatementContent (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12927:23)
+    at FlowParserMixin.parseStatementLike (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12843:17)
+    at FlowParserMixin.parseStatementLike (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:2945:24)
+    at FlowParserMixin.parseModuleItem (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12820:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13392:36)
+    at FlowParserMixin.parseBlockBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13385:10)
+    at FlowParserMixin.parseProgram (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12698:10)
+    at FlowParserMixin.parseTopLevel (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12688:25)
+    at FlowParserMixin.parseTopLevel (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3714:28)
+    at FlowParserMixin.parse (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:14568:25)
+    at parse (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:14602:38)
+    at parser (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/core/lib/parser/index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/core/lib/transformation/normalize-file.js:64:37)
+    at normalizeFile.next (<anonymous>)
+    at run (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/core/lib/transformation/index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/core/lib/transform.js:22:33)
+    at transform.next (<anonymous>)
+    at step (/Users/jastes/Desktop/hackaton/frontend/node_modules/gensync/index.js:261:32)
+    at /Users/jastes/Desktop/hackaton/frontend/node_modules/gensync/index.js:273:13
+    at async.call.result.err.err (/Users/jastes/Desktop/hackaton/frontend/node_modules/gensync/index.js:223:11)
+
+ERROR in [eslint] 
+src/components/ResultsSummary.js
+  Line 67:  Parsing error: Unexpected token, expected "," (67:0)
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/components/ChartPreview.js
+Syntax error: Unexpected token, expected "," (38:0) (38:undefined)
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+ERROR in ./src/components/ChartPreview.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: /Users/jastes/Desktop/hackaton/frontend/src/components/ChartPreview.js: Unexpected token, expected "," (38:0)
+
+  36 | }
+  37 |
+> 38 | export default ChartPreview;
+     | ^
+  39 |
+  40 |
+    at constructor (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:367:19)
+    at FlowParserMixin.raise (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:6624:19)
+    at FlowParserMixin.unexpected (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:6644:16)
+    at FlowParserMixin.expect (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:6924:12)
+    at FlowParserMixin.parseCallExpressionArguments (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11307:14)
+    at FlowParserMixin.parseCoverCallAndAsyncArrowHead (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11250:29)
+    at FlowParserMixin.parseSubscript (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11184:19)
+    at FlowParserMixin.parseSubscript (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3679:18)
+    at FlowParserMixin.parseSubscripts (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11158:19)
+    at FlowParserMixin.parseSubscripts (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3645:18)
+    at FlowParserMixin.parseExprSubscripts (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11149:17)
+    at FlowParserMixin.parseUpdate (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11130:21)
+    at FlowParserMixin.parseMaybeUnary (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11110:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10963:61)
+    at FlowParserMixin.parseExprOps (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10968:23)
+    at FlowParserMixin.parseMaybeConditional (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10945:23)
+    at FlowParserMixin.parseMaybeAssign (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10895:21)
+    at FlowParserMixin.parseMaybeAssign (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3578:18)
+    at /Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10864:39
+    at FlowParserMixin.allowInAnd (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12495:16)
+    at FlowParserMixin.parseMaybeAssignAllowIn (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10864:17)
+    at FlowParserMixin.parseVar (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13460:91)
+    at FlowParserMixin.parseVarStatement (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13306:10)
+    at FlowParserMixin.parseStatementContent (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12927:23)
+    at FlowParserMixin.parseStatementLike (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12843:17)
+    at FlowParserMixin.parseStatementLike (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:2945:24)
+    at FlowParserMixin.parseModuleItem (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12820:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13392:36)
+    at FlowParserMixin.parseBlockBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13385:10)
+    at FlowParserMixin.parseProgram (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12698:10)
+    at FlowParserMixin.parseTopLevel (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12688:25)
+    at FlowParserMixin.parseTopLevel (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3714:28)
+    at FlowParserMixin.parse (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:14568:25)
+    at parse (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:14602:38)
+    at parser (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/core/lib/parser/index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/core/lib/transformation/normalize-file.js:64:37)
+    at normalizeFile.next (<anonymous>)
+    at run (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/core/lib/transformation/index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/core/lib/transform.js:22:33)
+    at transform.next (<anonymous>)
+    at step (/Users/jastes/Desktop/hackaton/frontend/node_modules/gensync/index.js:261:32)
+    at /Users/jastes/Desktop/hackaton/frontend/node_modules/gensync/index.js:273:13
+    at async.call.result.err.err (/Users/jastes/Desktop/hackaton/frontend/node_modules/gensync/index.js:223:11)
+
+ERROR in [eslint] 
+src/components/ChartPreview.js
+  Line 38:  Parsing error: Unexpected token, expected "," (38:0)
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/components/ChartPreview.js
+Syntax error: Unexpected token, expected "," (40:0) (40:undefined)
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+ERROR in ./src/components/ChartPreview.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: /Users/jastes/Desktop/hackaton/frontend/src/components/ChartPreview.js: Unexpected token, expected "," (40:0)
+
+  38 | }
+  39 |
+> 40 | export default ChartPreview;
+     | ^
+  41 |
+  42 |
+    at constructor (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:367:19)
+    at FlowParserMixin.raise (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:6624:19)
+    at FlowParserMixin.unexpected (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:6644:16)
+    at FlowParserMixin.expect (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:6924:12)
+    at FlowParserMixin.parseCallExpressionArguments (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11307:14)
+    at FlowParserMixin.parseCoverCallAndAsyncArrowHead (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11250:29)
+    at FlowParserMixin.parseSubscript (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11184:19)
+    at FlowParserMixin.parseSubscript (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3679:18)
+    at FlowParserMixin.parseSubscripts (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11158:19)
+    at FlowParserMixin.parseSubscripts (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3645:18)
+    at FlowParserMixin.parseExprSubscripts (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11149:17)
+    at FlowParserMixin.parseUpdate (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11130:21)
+    at FlowParserMixin.parseMaybeUnary (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11110:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10963:61)
+    at FlowParserMixin.parseExprOps (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10968:23)
+    at FlowParserMixin.parseMaybeConditional (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10945:23)
+    at FlowParserMixin.parseMaybeAssign (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10895:21)
+    at FlowParserMixin.parseMaybeAssign (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3578:18)
+    at /Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10864:39
+    at FlowParserMixin.allowInAnd (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12495:16)
+    at FlowParserMixin.parseMaybeAssignAllowIn (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10864:17)
+    at FlowParserMixin.parseVar (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13460:91)
+    at FlowParserMixin.parseVarStatement (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13306:10)
+    at FlowParserMixin.parseStatementContent (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12927:23)
+    at FlowParserMixin.parseStatementLike (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12843:17)
+    at FlowParserMixin.parseStatementLike (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:2945:24)
+    at FlowParserMixin.parseModuleItem (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12820:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13392:36)
+    at FlowParserMixin.parseBlockBody (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:13385:10)
+    at FlowParserMixin.parseProgram (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12698:10)
+    at FlowParserMixin.parseTopLevel (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12688:25)
+    at FlowParserMixin.parseTopLevel (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3714:28)
+    at FlowParserMixin.parse (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:14568:25)
+    at parse (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:14602:38)
+    at parser (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/core/lib/parser/index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/core/lib/transformation/normalize-file.js:64:37)
+    at normalizeFile.next (<anonymous>)
+    at run (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/core/lib/transformation/index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/core/lib/transform.js:22:33)
+    at transform.next (<anonymous>)
+    at step (/Users/jastes/Desktop/hackaton/frontend/node_modules/gensync/index.js:261:32)
+    at /Users/jastes/Desktop/hackaton/frontend/node_modules/gensync/index.js:273:13
+    at async.call.result.err.err (/Users/jastes/Desktop/hackaton/frontend/node_modules/gensync/index.js:223:11)
+
+ERROR in [eslint] 
+src/components/ChartPreview.js
+  Line 40:  Parsing error: Unexpected token, expected "," (40:0)
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+src/components/ResultsSummary.js
+  Line 7:41:  'signals' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+src/components/ResultsSummary.js
+  Line 7:41:  'signals' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/App.js
+  Line 25:41:  'HomePage' is not defined     react/jsx-no-undef
+  Line 26:48:  'ResultsPage' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in [eslint] 
+src/App.js
+  Line 7:7:  'DashboardPage' is assigned a value but never used     no-unused-vars
+  Line 8:7:  'ChartPage' is assigned a value but never used         no-unused-vars
+  Line 9:7:  'TradeHistoryPage' is assigned a value but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+ERROR in [eslint] 
+src/App.js
+  Line 25:41:  'HomePage' is not defined     react/jsx-no-undef
+  Line 26:48:  'ResultsPage' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:   'AreaChart' is defined but never used     no-unused-vars
+  Line 13:3:  'Scatter' is defined but never used       no-unused-vars
+  Line 14:3:  'ScatterChart' is defined but never used  no-unused-vars
+  Line 17:3:  'Bar' is defined but never used           no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/pages/TradeHistoryPage.js
+Syntax error: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (136:6) (136:6)
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+ERROR in ./src/pages/TradeHistoryPage.js
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: /Users/jastes/Desktop/hackaton/frontend/src/pages/TradeHistoryPage.js: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (136:6)
+
+  134 |           )}
+  135 |         </div>
+> 136 |       </div>
+      |       ^
+  137 |     </div>
+  138 |   );
+  139 | }
+    at constructor (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:367:19)
+    at FlowParserMixin.raise (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:6624:19)
+    at FlowParserMixin.jsxParseElementAt (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:4771:18)
+    at FlowParserMixin.jsxParseElement (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:4778:17)
+    at FlowParserMixin.parseExprAtom (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:4788:19)
+    at FlowParserMixin.parseExprSubscripts (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11145:23)
+    at FlowParserMixin.parseUpdate (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11130:21)
+    at FlowParserMixin.parseMaybeUnary (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11110:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10963:61)
+    at FlowParserMixin.parseExprOps (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10968:23)
+    at FlowParserMixin.parseMaybeConditional (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10945:23)
+    at FlowParserMixin.parseMaybeAssign (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10895:21)
+    at /Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3527:39
+    at FlowParserMixin.tryParse (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:6932:20)
+    at FlowParserMixin.parseMaybeAssign (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3527:18)
+    at /Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10864:39
+    at FlowParserMixin.allowInAnd (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12500:12)
+    at FlowParserMixin.parseMaybeAssignAllowIn (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10864:17)
+    at FlowParserMixin.parseMaybeAssignAllowInOrVoidPattern (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12567:17)
+    at FlowParserMixin.parseParenAndDistinguishExpression (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11747:28)
+    at FlowParserMixin.parseParenAndDistinguishExpression (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3620:18)
+    at FlowParserMixin.parseExprAtom (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11395:23)
+    at FlowParserMixin.parseExprAtom (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:4793:20)
+    at FlowParserMixin.parseExprSubscripts (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11145:23)
+    at FlowParserMixin.parseUpdate (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11130:21)
+    at FlowParserMixin.parseMaybeUnary (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11110:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10963:61)
+    at FlowParserMixin.parseExprOps (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10968:23)
+    at FlowParserMixin.parseMaybeConditional (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10945:23)
+    at FlowParserMixin.parseMaybeAssign (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10895:21)
+    at FlowParserMixin.parseMaybeAssign (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3578:18)
+    at /Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10864:39
+    at FlowParserMixin.allowInAnd (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12500:12)
+    at FlowParserMixin.parseMaybeAssignAllowIn (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10864:17)
+    at FlowParserMixin.tryParseConditionalConsequent (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3050:29)
+    at FlowParserMixin.parseConditional (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3011:14)
+    at FlowParserMixin.parseMaybeConditional (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10949:17)
+    at FlowParserMixin.parseMaybeAssign (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10895:21)
+    at FlowParserMixin.parseMaybeAssign (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:3578:18)
+    at FlowParserMixin.parseExpressionBase (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10848:23)
+    at /Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10844:39
+    at FlowParserMixin.allowInAnd (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:12500:12)
+    at FlowParserMixin.parseExpression (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:10844:17)
+    at FlowParserMixin.jsxParseExpressionContainer (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:4661:31)
+    at FlowParserMixin.jsxParseElementAt (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:4740:36)
+    at FlowParserMixin.jsxParseElementAt (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:4727:32)
+    at FlowParserMixin.jsxParseElementAt (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:4727:32)
+    at FlowParserMixin.jsxParseElement (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:4778:17)
+    at FlowParserMixin.parseExprAtom (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:4788:19)
+    at FlowParserMixin.parseExprSubscripts (/Users/jastes/Desktop/hackaton/frontend/node_modules/@babel/parser/lib/index.js:11145:23)
+
+ERROR in [eslint] 
+src/pages/TradeHistoryPage.js
+  Line 136:6:  Parsing error: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (136:6)
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+src/pages/DashboardPage.js
+  Line 7:8:  'ChartDisplay' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+src/pages/DashboardPage.js
+  Line 7:8:  'ChartDisplay' is defined but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+src/pages/DashboardPage.js
+  Line 32:9:  'handleViewChart' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+src/pages/DashboardPage.js
+  Line 32:9:  'handleViewChart' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 4:8:  'Navigation' is defined but never used  no-unused-vars
+
+src/components/ChartDisplay.js
+  Line 5:3:    'AreaChart' is defined but never used        no-unused-vars
+  Line 13:3:   'Scatter' is defined but never used          no-unused-vars
+  Line 14:3:   'ScatterChart' is defined but never used     no-unused-vars
+  Line 17:3:   'Bar' is defined but never used              no-unused-vars
+  Line 25:23:  'trades' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning

@@ -17,6 +17,7 @@ import {
   Bar
 } from 'recharts';
 import './ChartDisplay.css';
+import { formatCurrency } from '../utils/formatters';
 
 function ChartDisplay({ results }) {
   const [activeTab, setActiveTab] = useState('price');
@@ -51,15 +52,6 @@ function ChartDisplay({ results }) {
   // 매수/매도 신호 데이터
   const buySignals = chartData.filter(d => d.buySignal !== null);
   const sellSignals = chartData.filter(d => d.sellSignal !== null);
-
-  const formatCurrency = (value) => {
-    if (!value && value !== 0) return '';
-    return new Intl.NumberFormat('ko-KR', {
-      style: 'currency',
-      currency: 'KRW',
-      maximumFractionDigits: 0
-    }).format(value);
-  };
 
   // 커스텀 툴팁
   const CustomTooltip = ({ active, payload, label }) => {
@@ -102,8 +94,6 @@ function ChartDisplay({ results }) {
 
   return (
     <div className="chart-display-container">
-      <h2>차트 분석</h2>
-      
       <div className="chart-tabs">
         <button
           className={activeTab === 'price' ? 'active' : ''}
@@ -127,7 +117,7 @@ function ChartDisplay({ results }) {
 
       <div className="chart-wrapper">
         {activeTab === 'price' && (
-          <ResponsiveContainer width="100%" height={600}>
+          <ResponsiveContainer width="100%" height="100%">
             <ComposedChart data={chartData} margin={{ top: 20, right: 30, left: 20, bottom: 80 }}>
               <defs>
                 <linearGradient id="colorUp" x1="0" y1="0" x2="0" y2="1">
@@ -244,7 +234,7 @@ function ChartDisplay({ results }) {
         )}
 
         {activeTab === 'rsi' && (
-          <ResponsiveContainer width="100%" height={500}>
+          <ResponsiveContainer width="100%" height="100%">
             <LineChart data={chartData} margin={{ top: 20, right: 30, left: 20, bottom: 5 }}>
               <CartesianGrid strokeDasharray="3 3" />
               <XAxis 
@@ -272,7 +262,7 @@ function ChartDisplay({ results }) {
         )}
 
         {activeTab === 'macd' && (
-          <ResponsiveContainer width="100%" height={500}>
+          <ResponsiveContainer width="100%" height="100%">
             <LineChart data={chartData} margin={{ top: 20, right: 30, left: 20, bottom: 5 }}>
               <CartesianGrid strokeDasharray="3 3" />
               <XAxis 
@@ -306,53 +296,8 @@ function ChartDisplay({ results }) {
         )}
       </div>
 
-      {results.chart_image && (
-        <div className="server-chart">
-          <h3>서버 생성 차트</h3>
-          <img 
-            src={`data:image/png;base64,${results.chart_image}`} 
-            alt="Backtest Chart"
-            style={{ maxWidth: '100%', height: 'auto' }}
-          />
-        </div>
-      )}
-
-      {trades && trades.length > 0 && (
-        <div className="trades-table">
-          <h3>거래 내역</h3>
-          <div className="table-wrapper">
-            <table>
-              <thead>
-                <tr>
-                  <th>날짜</th>
-                  <th>유형</th>
-                  <th>가격</th>
-                  <th>수량</th>
-                  <th>총 자산 가치</th>
-                </tr>
-              </thead>
-              <tbody>
-                {trades.map((trade, index) => (
-                  <tr key={index} className={trade.type === 'BUY' ? 'buy-row' : 'sell-row'}>
-                    <td>{trade.date}</td>
-                    <td>
-                      <span className={`trade-type ${trade.type.toLowerCase()}`}>
-                        {trade.type === 'BUY' ? '매수' : '매도'}
-                      </span>
-                    </td>
-                    <td>{formatCurrency(trade.price)}</td>
-                    <td>{trade.amount.toFixed(8)}</td>
-                    <td>{formatCurrency(trade.total_value)}</td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-        </div>
-      )}
     </div>
   );
 }
 
 export default ChartDisplay;
-

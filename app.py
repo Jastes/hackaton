@@ -7,8 +7,7 @@ from crypto_simulator import (
     generate_sample_data,
     add_technical_indicators,
     find_optimal_buy_sell_signals,
-    CryptoBacktester,
-    create_chart_image
+    CryptoBacktester
 )
 
 app = Flask(__name__)
@@ -61,9 +60,6 @@ def run_backtest():
         # 성과 지표 계산
         metrics = backtester.calculate_performance_metrics(df)
         
-        # 차트 이미지 생성
-        chart_image = create_chart_image(df, trades_df)
-        
         # 데이터를 JSON으로 변환
         price_data = []
         for idx, row in df.iterrows():
@@ -110,7 +106,6 @@ def run_backtest():
             },
             'price_data': price_data,
             'trades': trades_data,
-            'chart_image': chart_image,
             'signals': {
                 'buy_count': int(df['Buy_Signal'].sum()),
                 'sell_count': int(df['Sell_Signal'].sum())
